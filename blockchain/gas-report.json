@@ -1,0 +1,329 @@
+{
+  "latestBlock": 59,
+  "summary": [
+    {
+      "action": "deploy SchoolFees",
+      "count": 1,
+      "avgGas": 469605,
+      "minGas": 469605,
+      "maxGas": 469605
+    },
+    {
+      "action": "setFee(bytes32,uint256,bool)",
+      "count": 9,
+      "avgGas": 51650,
+      "minGas": 28614,
+      "maxGas": 68414
+    },
+    {
+      "action": "payFee(bytes32,bytes32)",
+      "count": 31,
+      "avgGas": 142743,
+      "minGas": 142722,
+      "maxGas": 142746
+    },
+    {
+      "action": "withdraw()",
+      "count": 8,
+      "avgGas": 32017,
+      "minGas": 32017,
+      "maxGas": 32017
+    }
+  ],
+  "samples": [
+    {
+      "block": 1,
+      "hash": "0x6c1051d3289051cbd10de2f6d82a09a6b19353a7a3ccc436fc215af91f3f7688",
+      "action": "deploy SchoolFees",
+      "gas": 469605
+    },
+    {
+      "block": 2,
+      "hash": "0x8effe3b41b0ae1bf1bac5373f76e5c3c573ac92837b1f6604cf21a04ad6a0f5e",
+      "action": "setFee(bytes32,uint256,bool)",
+      "gas": 68402
+    },
+    {
+      "block": 3,
+      "hash": "0x6a09bd4f8c9fe2a81c01fb51b605ee0eae5a0359b1c23d15d0c11a5c39600754",
+      "action": "setFee(bytes32,uint256,bool)",
+      "gas": 68402
+    },
+    {
+      "block": 4,
+      "hash": "0xe9e5a06463d8f1d12083972f87342839705050ee858fa15620d3429f0bf5989b",
+      "action": "setFee(bytes32,uint256,bool)",
+      "gas": 68402
+    },
+    {
+      "block": 5,
+      "hash": "0x4b935e966ca60405b5ab4fdd63231efa91051ee70a9e14912aa546d309c61c26",
+      "action": "setFee(bytes32,uint256,bool)",
+      "gas": 68414
+    },
+    {
+      "block": 6,
+      "hash": "0x3e7bae3da615c3caab526c64d879dab959329b59ad1e550c190ea0481a0134ba",
+      "action": "setFee(bytes32,uint256,bool)",
+      "gas": 68402
+    },
+    {
+      "block": 7,
+      "hash": "0x75c59037b7c91a6d22730a3fb77ddafb9a9c0e4bde6d1fbfc1524853c26cbdbd",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 8,
+      "hash": "0x34080d613a5c3dabd2ad953fe336dd69ce3ef5839ac1fc0693806aeaa5e27743",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 9,
+      "hash": "0x8973e634cbd6cc6d95cfb4aa5b1455d305716004e82dd594d2a0d2f2d51c8cfb",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 10,
+      "hash": "0x1582dbcfbd08b5248862f114015680984a7245757026c5b52cc5820b7acc733b",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 11,
+      "hash": "0x0a9f4536ba6e89989382c401009067385254ed7239520cc39a093396f98733ba",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 12,
+      "hash": "0x68655bcfd26749e681d615fa4062d56facda5e3a8b900ed4157fc74c560adaca",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 13,
+      "hash": "0x3abda09502ee2f6e121b9f685428bf27b0b1304e019c0f3aa7d751c2284d2d2e",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142734
+    },
+    {
+      "block": 14,
+      "hash": "0x4f56906c8556f2910111c6f286db2f52711eb2465871a5fa31cca7080cbbd4ac",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 19,
+      "hash": "0x665ffe1d20497dc7542a69e013f7a07ea6d5752d39c396a494e109c33b848cb0",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142734
+    },
+    {
+      "block": 20,
+      "hash": "0x0d5b2bc0a8f56ff218e3093cb1cca6f78be5fbdf0befa8e63c01ea0d346a50b4",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 21,
+      "hash": "0x06fd42c9d7400bca0f1e9829c2bb8f10998c65bcdb25a276004e013fd2be8b9b",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 24,
+      "hash": "0x79e1741527f8a2996383163b52c8c5a728cc742f1adf6b8358ff55da9b06fd97",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 25,
+      "hash": "0xd50b3dbc37cace7f95633ddd6c818d50b7b2e0bdd5f7c52c76bdb6010ce6e211",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 27,
+      "hash": "0x8ec2cd909a78c5d829c43020c8ce751b5ff89980920a4c121b2c5d8bbc20a127",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 28,
+      "hash": "0xfaa2598efb48a31ea694cc6ee3555856d181463d4027b1350569863a0f0ad0f6",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 29,
+      "hash": "0x71b94dae6b4f74fba464a6f7c50f869caa4635807c156449f123a0179875eb76",
+      "action": "setFee(bytes32,uint256,bool)",
+      "gas": 31414
+    },
+    {
+      "block": 30,
+      "hash": "0xfc4d2ba0b75068c8e244b1a26662559a011589d999cbb9399085f4cd18d59a23",
+      "action": "setFee(bytes32,uint256,bool)",
+      "gas": 31402
+    },
+    {
+      "block": 31,
+      "hash": "0x6a01aafa40e411c762cbcc8b26290fa04c6f13762a96109e60da37e614baeca1",
+      "action": "withdraw()",
+      "gas": 32017
+    },
+    {
+      "block": 33,
+      "hash": "0x5b4a5138c56f5372cc12a5373e669e4eade120e89fdbdea00560ec1a50d1f827",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 35,
+      "hash": "0x5af2b1309783cbfa41b948fde1ff72fe79bc7602842e5bf9ef25e6419ff04b3a",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 36,
+      "hash": "0x58385ceb591037bd2cab51b5a91232a4addc6024e26c18972f0daabf27f8645d",
+      "action": "setFee(bytes32,uint256,bool)",
+      "gas": 28614
+    },
+    {
+      "block": 37,
+      "hash": "0x0cf9977d0f299c6f867cedb613d2db23de2c84a4ad1dabef936a4265c4c727e3",
+      "action": "withdraw()",
+      "gas": 32017
+    },
+    {
+      "block": 38,
+      "hash": "0x24f1c62447975e1911a68c2fcac8a7b79c292ecd4d640cc8ab02ad0fe6c69a00",
+      "action": "setFee(bytes32,uint256,bool)",
+      "gas": 31402
+    },
+    {
+      "block": 39,
+      "hash": "0xc896f549f3fd33aae045266b989db12e566e08b5670aaade00f85227c923aa06",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 40,
+      "hash": "0xa9d14d6c8059255c80b5a25738f4dd13c62b41bf09d1dddb26611d22ddcf477e",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 41,
+      "hash": "0x9fc5748bb7e29ea12d5e7623f2184a786a820e860c448f326d471ad7365a1c01",
+      "action": "withdraw()",
+      "gas": 32017
+    },
+    {
+      "block": 42,
+      "hash": "0x46e8bdc0fb3d2062ee7facf8e8c6dbfce849784e790eccb54089a299b3d2a7ad",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142734
+    },
+    {
+      "block": 43,
+      "hash": "0xf4fc80f14a70fab2af702060a2d7a9722a9bf30a9415b83e51c4c6c0a668a4ab",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 44,
+      "hash": "0x53edecf9521ea09836c0a9413a0f9b35f6e0125861db72664606e919098e7962",
+      "action": "withdraw()",
+      "gas": 32017
+    },
+    {
+      "block": 46,
+      "hash": "0x87f8a4f433adb0a125f8bb86e87448b99016376b65754dbb9aaea7dae7e753bf",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142734
+    },
+    {
+      "block": 47,
+      "hash": "0xe0b97411dc18a6b5385dd7796cd7eb1da1ebe303a79e1990c9e66fd07a82e424",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142734
+    },
+    {
+      "block": 48,
+      "hash": "0xcb24305597106e7391153f6c928c2e276d1f101e8b5cd24b49b9af4b65266c23",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142734
+    },
+    {
+      "block": 49,
+      "hash": "0x50540c793130256c482787659dec399d11a47cd9a39366edc8dbdc683a28b87c",
+      "action": "withdraw()",
+      "gas": 32017
+    },
+    {
+      "block": 50,
+      "hash": "0x32002b21c58afc7d1ba30e3eed5cbd2bb56d90d730eae8e662beb594d586fd57",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142722
+    },
+    {
+      "block": 51,
+      "hash": "0x9d87af8ec5924eb868be27e90769c6f68dd4d00b09903cfa693bf359e7dd1bb2",
+      "action": "withdraw()",
+      "gas": 32017
+    },
+    {
+      "block": 52,
+      "hash": "0x46dcf5963986da637f832cced5964396bbe1536e179952db4d5a33cce9e57a8b",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 53,
+      "hash": "0x674d5c3f5cdfe89854224737e7bc06c14392c3757a4c65f7ccb1b2be582bf60e",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 54,
+      "hash": "0x98b82836b70f8eab5a92d5d0ff03e45a97234c482bb1dc1b1970d38e66427728",
+      "action": "withdraw()",
+      "gas": 32017
+    },
+    {
+      "block": 55,
+      "hash": "0x241e542b72229814df281ef889e6100b60eac64d01ce00593fb8d8668fab6ce4",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 56,
+      "hash": "0xf3e3d68152024f9e17ef107474042ac74dbbbb4e8d72af6fab18bc6e881efc38",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 57,
+      "hash": "0x4f48a626b9a2fa1fa21681c077c7015df1ce1e7bf3e847b393946434d3e41124",
+      "action": "withdraw()",
+      "gas": 32017
+    },
+    {
+      "block": 58,
+      "hash": "0x9c76b1d63456a21011d197e3be994b4b29409651d5a5117eba2f0d9e309aa23f",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142746
+    },
+    {
+      "block": 59,
+      "hash": "0xa0b79d1192e8b12d4acb05baa4e30a5664af233d50e675b4cce9b311dd5c0d17",
+      "action": "payFee(bytes32,bytes32)",
+      "gas": 142734
+    }
+  ]
+}
